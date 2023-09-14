@@ -1,0 +1,17 @@
+body {
+  background: url('./images/bg-desktop.jpg'),  linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode:overlay;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+@media (max-width: 650px) {
+  body {
+    background: url('./images/bg-mobile.jpg'),  linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+}

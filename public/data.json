@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "age": 25,
+      "role": "Web-Slinger",
+      "image": "https://i.ibb.co/Zxv1cHj/spiderman.jpg",
+      "salary": 80000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/spiderman",
+      "twitter": "@spiderman"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "age": 35,
+      "role": "Genius Billionaire Playboy Philanthropist",
+      "image": "https://i.ibb.co/0yNLMtS/iron-men.jpg",
+      "salary": 1000000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/ironman",
+      "twitter": "@ironman"
+    },
+    {
+      "id": 3,
+      "name": "Black Widow",
+      "age": 32,
+      "role": "Spy and Assassin",
+      "image": "https://i.ibb.co/CKDWVmh/black-widow.jpg",
+      "salary": 90000,
+      "country": "Russia",
+      "fbUrl": "https://www.facebook.com/blackwidow",
+      "twitter": "@blackwidow"
+    },
+    {
+      "id": 4,
+      "name": "Captain America",
+      "age": 30,
+      "role": "Super Soldier",
+      "image": "https://i.ibb.co/Lt2W76P/captain.jpg",
+      "salary": 85000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/captainamerica",
+      "twitter": "@captainamerica"
+    },
+    {
+      "id": 5,
+      "name": "Thor",
+      "age": 1000,
+      "role": "God of Thunder",
+      "image": "https://i.ibb.co/x3JJ11x/thor.jpg",
+      "salary": 95000,
+      "country": "Asgard",
+      "fbUrl": "https://www.facebook.com/thor",
+      "twitter": "@thor"
+    },
+    {
+      "id": 6,
+      "name": "Hulk",
+      "age": 40,
+      "role": "Gamma-Powered Scientist",
+      "image": "https://i.ibb.co/FwPXd43/hulk.jpg",
+      "salary": 87000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/hulk",
+      "twitter": "@hulk"
+    },
+    {
+      "id": 7,
+      "name": "Black Panther",
+      "age": 35,
+      "role": "King of Wakanda",
+      "image": "https://i.ibb.co/HBBhXZJ/black-panther.jpg",
+      "salary": 92000,
+      "country": "Wakanda",
+      "fbUrl": "https://www.facebook.com/blackpanther",
+      "twitter": "@blackpanther"
+    },
+    {
+      "id": 8,
+      "name": "Doctor Strange",
+      "age": 45,
+      "role": "Sorcerer Supreme",
+      "image": "https://i.ibb.co/dJBF7N1/doctor-strange.jpg",
+      "salary": 88000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/doctorstrange",
+      "twitter": "@doctorstrange"
+    },
+    {
+        "id": 9,
+        "name": "Thanos",
+        "age": 1000,
+        "role": "Mad Titan",
+        "image": "https://i.ibb.co/YLqtxZT/thanos.jpg",
+        "salary": 10000000,
+        "country": "Titan",
+        "fbUrl": "https://www.facebook.com/thanos",
+        "twitter": "@thanos"
+    },
+    {
+      "id": 10,
+      "name": "Scarlet Witch",
+      "age": 28,
+      "role": "Reality Warper",
+      "image": "https://i.ibb.co/7Xg46B1/wanda.jpg",
+      "salary": 89000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/scarletwitch",
+      "twitter": "@scarletwitch"
+    },
+    {
+      "id": 11,
+      "name": "Doctor Doom",
+      "age": 45,
+      "role": "Supervillain",
+      "image": "https://i.ibb.co/xC3Cshd/doctor-doom.jpg",
+      "salary": 950000,
+      "country": "Latveria",
+      "fbUrl": "https://www.facebook.com/doctordoom",
+      "twitter": "@doctordoom"
+    },
+    {
+      "id": 12,
+      "name": "Storm",
+      "age": 30,
+      "role": "Weather Manipulator",
+      "image": "https://i.ibb.co/txQg2JN/storm.jpg",
+      "salary": 75000,
+      "country": "Kenya",
+      "fbUrl": "https://www.facebook.com/storm",
+      "twitter": "@storm"
+    },
+    {
+      "id": 13,
+      "name": "Magneto",
+      "age": 60,
+      "role": "Master of Magnetism",
+      "image": "https://i.ibb.co/fkQ0TbS/magneto.jpg",
+      "salary": 80000,
+      "country": "Genosha",
+      "fbUrl": "https://www.facebook.com/magneto",
+      "twitter": "@magneto"
+    },
+    {
+      "id": 14,
+      "name": "Deadpool",
+      "age": 35,
+      "role": "Merc with a Mouth",
+      "image": "https://i.ibb.co/tYSVDnW/deadpool.jpg",
+      "salary": 75000,
+      "country": "United States",
+      "fbUrl": "https://www.facebook.com/deadpool",
+      "twitter": "@deadpool"
+    },
+    {
+      "id": 15,
+      "name": "Groot",
+      "age": 1000,
+      "role": "Flora Colossus",
+      "image": "https://i.ibb.co/vjNmtMQ/groot.jpg",
+      "salary": 60000,
+      "country": "Planet X",
+      "fbUrl": "https://www.facebook.com/groot",
+      "twitter": "@groot"
+    }
+]
+  
